@@ -13,6 +13,7 @@
 		473CA5ED252B220600A63025 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 473CA5EC252B220600A63025 /* Preview Assets.xcassets */; };
 		473CA5F8252B220700A63025 /* _0757112_chumihuaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 473CA5F7252B220700A63025 /* _0757112_chumihuaTests.swift */; };
 		473CA603252B220700A63025 /* _0757112_chumihuaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 473CA602252B220700A63025 /* _0757112_chumihuaUITests.swift */; };
+		473CA614252B299500A63025 /* HeartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 473CA613252B299500A63025 /* HeartView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		473CA5FE252B220700A63025 /* 00757112_chumihuaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 00757112_chumihuaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		473CA602252B220700A63025 /* _0757112_chumihuaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _0757112_chumihuaUITests.swift; sourceTree = "<group>"; };
 		473CA604252B220700A63025 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		473CA613252B299500A63025 /* HeartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				473CA5E5252B220200A63025 /* _0757112_chumihuaApp.swift */,
 				473CA5E7252B220200A63025 /* ContentView.swift */,
+				473CA613252B299500A63025 /* HeartView.swift */,
 				473CA5E9252B220600A63025 /* Assets.xcassets */,
 				473CA5EE252B220600A63025 /* Info.plist */,
 				473CA5EB252B220600A63025 /* Preview Content */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				473CA5E8252B220200A63025 /* ContentView.swift in Sources */,
+				473CA614252B299500A63025 /* HeartView.swift in Sources */,
 				473CA5E6252B220200A63025 /* _0757112_chumihuaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
